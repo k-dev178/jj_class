@@ -1,5 +1,5 @@
 # 3학년 2학기
-* [1장](jj_class) | * [2장](jj_class)
+* [1장](README.md) | * [2장](README.md)
 ## 🤖 머신러닝
 
 ### 1주차
